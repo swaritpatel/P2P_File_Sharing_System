@@ -1,0 +1,43 @@
+MainThread - DEBUG - bittorrent 
+Reading ../data/book.torrent file ...
+
+MainThread - DEBUG - bittorrent 
++---------------------------+--------------------------------------------------+
+|    CLIENT TORRENT DATA    |                    DATA VALUE                    |
+|  (client state = seeding) |                                                  |
+|                           |                                                  |
++---------------------------+--------------------------------------------------+
+|         File name         | The 100 Best Business Books of All Time What The |
+|                           | y Say, Why They Matter, and How They Can Help Yo |
+|                           |                 u (2016) [WWRG]                  |
++---------------------------+--------------------------------------------------+
+|         File size         |                     19.53 MB                     |
++---------------------------+--------------------------------------------------+
+|       Piece length        |                      65536                       |
++---------------------------+--------------------------------------------------+
+|         Info hash         |          20 Bytes file info hash value           |
++---------------------------+--------------------------------------------------+
+|           Files           |                        3                         |
++---------------------------+--------------------------------------------------+
+|     Number of Pieces      |                       313                        |
++---------------------------+--------------------------------------------------+
+|        Client port        |                       6881                       |
++---------------------------+--------------------------------------------------+
+|      Client peer ID       |             b'-PC0001-903988462004'              |
++---------------------------+--------------------------------------------------+
+
+MainThread - DEBUG - bittorrent 
+Connecting to Trackers ...
+
+MainThread - DEBUG - bittorrent 
+None
+
+MainThread - DEBUG - bittorrent 
+Initializing the swarm of peers ...
+
+MainThread - DEBUG - bittorrent 
+None
+
+MainThread - DEBUG - bittorrent 
+Initializing the swarm of peers ...
+

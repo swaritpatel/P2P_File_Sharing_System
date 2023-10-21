@@ -1,0 +1,872 @@
+MainThread - DEBUG - tracker.leechers-paradise.org 
+tracker.leechers-paradise.orgUDP tracker connection request failed❌
+
+MainThread - DEBUG - http://explodie.org:6969/announce 
+http://explodie.org:6969/announce connection failed !❌
+
+MainThread - DEBUG - http://tracker.tfile.me/announce 
+http://tracker.tfile.me/announce connection failed !❌
+
+MainThread - DEBUG - http://bigfoot1942.sektori.org:6969/announce 
+http://bigfoot1942.sektori.org:6969/announce connection failed !❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pw failed announce request attempt 1❌
+
+MainThread - DEBUG - eddie4.nl 
+eddie4.nlUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker4.piratux.com 
+tracker4.piratux.com[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pw failed announce request attempt 2❌
+
+MainThread - DEBUG - tracker.trackerfix.com 
+tracker.trackerfix.comUDP tracker connection request failed❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pw failed announce request attempt 3❌
+
+MainThread - DEBUG - tracker.pomf.se 
+tracker.pomf.seUDP tracker connection request failed❌
+
+MainThread - DEBUG - torrent.gresille.org 
+torrent.gresille.org[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pw failed announce request attempt 4❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pw failed announce request attempt 5❌
+
+MainThread - DEBUG - tracker.leechers-paradise.org 
+tracker.leechers-paradise.orgUDP tracker connection request failed❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pw failed announce request attempt 6❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pw failed announce request attempt 1❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pw failed announce request attempt 7❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pw failed announce request attempt 2❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pw failed announce request attempt 8❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pwobject of type 'NoneType' has no len()❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pw failed announce request attempt 3❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.org failed announce request attempt 1❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pw failed announce request attempt 4❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.org failed announce request attempt 2❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pw failed announce request attempt 5❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.org failed announce request attempt 3❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pw failed announce request attempt 6❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.org failed announce request attempt 4❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pw failed announce request attempt 7❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.org failed announce request attempt 5❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pw failed announce request attempt 8❌
+
+MainThread - DEBUG - glotorrents.pw 
+glotorrents.pwobject of type 'NoneType' has no len()❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.org failed announce request attempt 6❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.org failed announce request attempt 1❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.org failed announce request attempt 7❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.org failed announce request attempt 2❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.org failed announce request attempt 8❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.orgobject of type 'NoneType' has no len()❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.org failed announce request attempt 3❌
+
+MainThread - DEBUG - tracker.blackunicorn.xyz 
+tracker.blackunicorn.xyzUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.org failed announce request attempt 4❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.org failed announce request attempt 5❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.net failed announce request attempt 1❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.org failed announce request attempt 6❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.net failed announce request attempt 2❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.net failed announce request attempt 3❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.org failed announce request attempt 7❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.net failed announce request attempt 4❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.org failed announce request attempt 8❌
+
+MainThread - DEBUG - tracker.opentrackr.org 
+tracker.opentrackr.orgobject of type 'NoneType' has no len()❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.net failed announce request attempt 5❌
+
+MainThread - DEBUG - tracker.blackunicorn.xyz 
+tracker.blackunicorn.xyzUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.net failed announce request attempt 6❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.net failed announce request attempt 1❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.net failed announce request attempt 7❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.net failed announce request attempt 2❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.net failed announce request attempt 8❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.netobject of type 'NoneType' has no len()❌
+
+MainThread - DEBUG - p4p.arenabg.ch 
+p4p.arenabg.ch[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.net failed announce request attempt 3❌
+
+MainThread - DEBUG - tracker.coppersurfer.tk 
+tracker.coppersurfer.tkUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.net failed announce request attempt 4❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.net failed announce request attempt 5❌
+
+MainThread - DEBUG - tracker.openbittorrent.com 
+tracker.openbittorrent.comUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.net failed announce request attempt 6❌
+
+MainThread - DEBUG - p4p.arenabg.com 
+p4p.arenabg.comUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.net failed announce request attempt 7❌
+
+MainThread - DEBUG - tracker.ilibr.org 
+tracker.ilibr.orgUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.ilibr.org 
+tracker.ilibr.orgUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.net failed announce request attempt 8❌
+
+MainThread - DEBUG - tracker.internetwarriors.net 
+tracker.internetwarriors.netobject of type 'NoneType' has no len()❌
+
+MainThread - DEBUG - p4p.arenabg.ch 
+p4p.arenabg.ch[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - tracker.ilibr.org 
+tracker.ilibr.orgUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.ilibr.org 
+tracker.ilibr.orgUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.zer0day.to 
+tracker.zer0day.to[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - tracker.coppersurfer.tk 
+tracker.coppersurfer.tkUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.com 
+9.rarbg.comUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.openbittorrent.com 
+tracker.openbittorrent.comUDP tracker connection request failed❌
+
+MainThread - DEBUG - explodie.org 
+explodie.org failed announce request attempt 1❌
+
+MainThread - DEBUG - explodie.org 
+explodie.org failed announce request attempt 2❌
+
+MainThread - DEBUG - p4p.arenabg.com 
+p4p.arenabg.com failed announce request attempt 1❌
+
+MainThread - DEBUG - explodie.org 
+explodie.org failed announce request attempt 3❌
+
+MainThread - DEBUG - p4p.arenabg.com 
+p4p.arenabg.com failed announce request attempt 2❌
+
+MainThread - DEBUG - explodie.org 
+explodie.org failed announce request attempt 4❌
+
+MainThread - DEBUG - p4p.arenabg.com 
+p4p.arenabg.com failed announce request attempt 3❌
+
+MainThread - DEBUG - explodie.org 
+explodie.org failed announce request attempt 5❌
+
+MainThread - DEBUG - p4p.arenabg.com 
+p4p.arenabg.com failed announce request attempt 4❌
+
+MainThread - DEBUG - explodie.org 
+explodie.org failed announce request attempt 6❌
+
+MainThread - DEBUG - p4p.arenabg.com 
+p4p.arenabg.com failed announce request attempt 5❌
+
+MainThread - DEBUG - explodie.org 
+explodie.org failed announce request attempt 7❌
+
+MainThread - DEBUG - p4p.arenabg.com 
+p4p.arenabg.com failed announce request attempt 6❌
+
+MainThread - DEBUG - explodie.org 
+explodie.org failed announce request attempt 8❌
+
+MainThread - DEBUG - explodie.org 
+explodie.orgobject of type 'NoneType' has no len()❌
+
+MainThread - DEBUG - p4p.arenabg.com 
+p4p.arenabg.com failed announce request attempt 7❌
+
+MainThread - DEBUG - ipv4.tracker.harry.lu 
+ipv4.tracker.harry.luUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.pirateparty.gr 
+tracker.pirateparty.gr[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - p4p.arenabg.com 
+p4p.arenabg.com failed announce request attempt 8❌
+
+MainThread - DEBUG - p4p.arenabg.com 
+p4p.arenabg.comobject of type 'NoneType' has no len()❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.ilibr.org 
+tracker.ilibr.orgUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.ilibr.org 
+tracker.ilibr.orgUDP tracker connection request failed❌
+
+MainThread - DEBUG - bt.xxx-tracker.com 
+bt.xxx-tracker.com[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - tracker.cyberia.is 
+tracker.cyberia.is[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - retracker.lanta-net.ru 
+retracker.lanta-net.ru[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - tracker.ilibr.org 
+tracker.ilibr.orgUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.ilibr.org 
+tracker.ilibr.orgUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.zer0day.to 
+tracker.zer0day.to[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.com 
+9.rarbg.comUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.mg64.net 
+tracker.mg64.netUDP tracker connection request failed❌
+
+MainThread - DEBUG - open.demonii.si 
+open.demonii.si[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - explodie.org 
+explodie.org failed announce request attempt 1❌
+
+MainThread - DEBUG - explodie.org 
+explodie.org failed announce request attempt 2❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.com failed announce request attempt 1❌
+
+MainThread - DEBUG - explodie.org 
+explodie.org failed announce request attempt 3❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.com failed announce request attempt 2❌
+
+MainThread - DEBUG - explodie.org 
+explodie.org failed announce request attempt 4❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.com failed announce request attempt 3❌
+
+MainThread - DEBUG - explodie.org 
+explodie.org failed announce request attempt 5❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.com failed announce request attempt 4❌
+
+MainThread - DEBUG - explodie.org 
+explodie.org failed announce request attempt 6❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.com failed announce request attempt 5❌
+
+MainThread - DEBUG - explodie.org 
+explodie.org failed announce request attempt 7❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.com failed announce request attempt 6❌
+
+MainThread - DEBUG - explodie.org 
+explodie.org failed announce request attempt 8❌
+
+MainThread - DEBUG - explodie.org 
+explodie.orgobject of type 'NoneType' has no len()❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.com failed announce request attempt 7❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.com failed announce request attempt 8❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.comobject of type 'NoneType' has no len()❌
+
+MainThread - DEBUG - ipv4.tracker.harry.lu 
+ipv4.tracker.harry.luUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.pirateparty.gr 
+tracker.pirateparty.gr[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - ipv6.tracker.harry.lu 
+ipv6.tracker.harry.lu[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - bt.xxx-tracker.com 
+bt.xxx-tracker.com[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - tracker.cyberia.is 
+tracker.cyberia.is[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - retracker.lanta-net.ru 
+retracker.lanta-net.ru[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - denis.stalker.upeer.me 
+denis.stalker.upeer.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.port443.xyz 
+tracker.port443.xyz[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - tracker.mg64.net 
+tracker.mg64.netUDP tracker connection request failed❌
+
+MainThread - DEBUG - open.demonii.si 
+open.demonii.si[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - tracker.moeking.me 
+tracker.moeking.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.com failed announce request attempt 1❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.com failed announce request attempt 1❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.com failed announce request attempt 2❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.com failed announce request attempt 2❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.com failed announce request attempt 3❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.com failed announce request attempt 3❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.com failed announce request attempt 4❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.com failed announce request attempt 4❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.com failed announce request attempt 5❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.com failed announce request attempt 5❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.com failed announce request attempt 6❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.com failed announce request attempt 6❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.com failed announce request attempt 7❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.com failed announce request attempt 7❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.com failed announce request attempt 8❌
+
+MainThread - DEBUG - tracker.tiny-vps.com 
+tracker.tiny-vps.comobject of type 'NoneType' has no len()❌
+
+MainThread - DEBUG - ipv6.tracker.harry.lu 
+ipv6.tracker.harry.lu[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.com failed announce request attempt 8❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.comobject of type 'NoneType' has no len()❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.me 
+9.rarbg.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - denis.stalker.upeer.me 
+denis.stalker.upeer.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.port443.xyz 
+tracker.port443.xyz[Errno 8] nodename nor servname provided, or not known❌
+
+MainThread - DEBUG - tracker.justseed.it 
+tracker.justseed.itUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.moeking.me 
+tracker.moeking.meUDP tracker connection request failed❌
+
+MainThread - DEBUG - tracker.torrent.eu.org 
+tracker.torrent.eu.org failed announce request attempt 1❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.com failed announce request attempt 1❌
+
+MainThread - DEBUG - tracker.torrent.eu.org 
+tracker.torrent.eu.org failed announce request attempt 2❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.com failed announce request attempt 2❌
+
+MainThread - DEBUG - tracker.torrent.eu.org 
+tracker.torrent.eu.org failed announce request attempt 3❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.com failed announce request attempt 3❌
+
+MainThread - DEBUG - tracker.torrent.eu.org 
+tracker.torrent.eu.org failed announce request attempt 4❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.com failed announce request attempt 4❌
+
+MainThread - DEBUG - tracker.torrent.eu.org 
+tracker.torrent.eu.org failed announce request attempt 5❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.com failed announce request attempt 5❌
+
+MainThread - DEBUG - tracker.torrent.eu.org 
+tracker.torrent.eu.org failed announce request attempt 6❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.com failed announce request attempt 6❌
+
+MainThread - DEBUG - tracker.torrent.eu.org 
+tracker.torrent.eu.org failed announce request attempt 7❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.com failed announce request attempt 7❌
+
+MainThread - DEBUG - tracker.torrent.eu.org 
+tracker.torrent.eu.org failed announce request attempt 8❌
+
+MainThread - DEBUG - tracker.torrent.eu.org 
+tracker.torrent.eu.orgobject of type 'NoneType' has no len()❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.com failed announce request attempt 8❌
+
+MainThread - DEBUG - exodus.desync.com 
+exodus.desync.comobject of type 'NoneType' has no len()❌
+
+MainThread - DEBUG - tracker.open-internet.nl 
+tracker.open-internet.nlUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - torrentclub.tech 
+torrentclub.techUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - 9.rarbg.to 
+9.rarbg.toUDP tracker connection request failed❌
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.si failed announce request attempt 1❌
+
+MainThread - DEBUG - tracker.justseed.it 
+tracker.justseed.itUDP tracker connection request failed❌
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.si failed announce request attempt 2❌
+
+MainThread - DEBUG - tracker.torrent.eu.org 
+tracker.torrent.eu.orgUDP tracker connection request failed❌
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.si failed announce request attempt 3❌
+
+MainThread - DEBUG - tracker.open-internet.nl 
+tracker.open-internet.nlUDP tracker connection request failed❌
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.si failed announce request attempt 4❌
+
+MainThread - DEBUG - torrentclub.tech 
+torrentclub.techUDP tracker connection request failed❌
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.si failed announce request attempt 5❌
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.si failed announce request attempt 1❌
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.si failed announce request attempt 6❌
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.si failed announce request attempt 2❌
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.si failed announce request attempt 7❌
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.si failed announce request attempt 3❌
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.si failed announce request attempt 8❌
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.siobject of type 'NoneType' has no len()❌
+
+MainThread - DEBUG - http://tracker.tfile.co:80/announce 
+http://tracker.tfile.co:80/announce connection failed !❌
+
+MainThread - DEBUG - trackers 
++-------------------------------------+--------------------------+
+|            TRACKERS LIST            |    CONNECTION STATUS     |
++-------------------------------------+--------------------------+
+|                                     | successful connection ✅ |
++-------------------------------------+--------------------------+
+| http://tracker.tfile.co:80/announce |   failed connection ❌   |
+|         ... 50 connections          |                          |
++-------------------------------------+--------------------------+
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.si failed announce request attempt 4❌
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.si failed announce request attempt 5❌
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.si failed announce request attempt 6❌
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.si failed announce request attempt 7❌
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.si failed announce request attempt 8❌
+
+MainThread - DEBUG - open.stealth.si 
+open.stealth.siobject of type 'NoneType' has no len()❌
+
+MainThread - DEBUG - http://tracker.tfile.co:80/announce 
+http://tracker.tfile.co:80/announce connection failed !❌
+
+MainThread - DEBUG - trackers 
++-------------------------------------+--------------------------+
+|            TRACKERS LIST            |    CONNECTION STATUS     |
++-------------------------------------+--------------------------+
+|                                     | successful connection ✅ |
++-------------------------------------+--------------------------+
+| http://tracker.tfile.co:80/announce |   failed connection ❌   |
+|         ... 50 connections          |                          |
++-------------------------------------+--------------------------+
+
